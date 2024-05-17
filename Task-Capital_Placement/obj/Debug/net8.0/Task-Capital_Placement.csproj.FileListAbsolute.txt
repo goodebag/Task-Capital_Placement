@@ -1,0 +1,125 @@
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\appsettings.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.exe
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.deps.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.runtimeconfig.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.pdb
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.csproj.AssemblyReference.cache
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.AssemblyInfoInputs.cache
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.AssemblyInfo.cs
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.csproj.CoreCompileInputs.cache
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.Task-Capital_Placement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.build.Task-Capital_Placement.props
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task-Capital_Placement.props
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task-Capital_Placement.props
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\scopedcss\bundle\Task-Capital_Placement.styles.css
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Cap.359C807D.Up2Date
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\refint\Task-Capital_Placement.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.pdb
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.genruntimeconfig.cache
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\ref\Task-Capital_Placement.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\msvcp140.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goodebag\source\repos\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Cosmos.CRTCompat.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\msvcp140.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\vcruntime140.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\vcruntime140_1.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\appsettings.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.exe
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.deps.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.runtimeconfig.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Task-Capital_Placement.pdb
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Client.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Core.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Direct.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Azure.Cosmos.Serialization.HybridRow.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Bcl.HashCode.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\Cosmos.CRTCompat.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Azure.Cosmos.ServiceInterop.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.csproj.AssemblyReference.cache
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.AssemblyInfoInputs.cache
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.AssemblyInfo.cs
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.csproj.CoreCompileInputs.cache
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.sourcelink.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.Task-Capital_Placement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.build.Task-Capital_Placement.props
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Task-Capital_Placement.props
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Task-Capital_Placement.props
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\scopedcss\bundle\Task-Capital_Placement.styles.css
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Cap.359C807D.Up2Date
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\refint\Task-Capital_Placement.dll
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.pdb
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\Task-Capital_Placement.genruntimeconfig.cache
+C:\Users\Goodebag\Downloads\New folder\Task-Capital_Placement\Task-Capital_Placement\obj\Debug\net8.0\ref\Task-Capital_Placement.dll
